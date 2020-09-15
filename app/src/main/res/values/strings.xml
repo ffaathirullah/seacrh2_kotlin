@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Submission 2 Dicoding</string>
+    <string name="github" translatable="false">GitHub</string>
+    <color name="biru">#6495ED</color>
+</resources>
