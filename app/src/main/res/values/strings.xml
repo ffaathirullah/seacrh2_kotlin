@@ -1,5 +1,16 @@
 <resources>
-    <string name="app_name">Submission 2 Dicoding</string>
-    <string name="github" translatable="false">GitHub</string>
-    <color name="biru">#6495ED</color>
+    <string name="app_name" translatable="false">Submission 2 Fundamentals</string>
+    <string name="search_hint">Search User...</string>
+    <string name="tabText1">Followers</string>
+    <string name="tabText2">Following</string>
+    <string name="followers">followers •</string>
+    <string name="following">following</string>
+    <string name="repository">repository</string>
+    <string name="change_language_settings">Change language</string>
+    <string name="github" translatable="false">GitHub</string>>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_me">About Me</string>
+    <string name="title_follower">Follower</string>
+    <string name="title_following">Following</string>
+    <string name="about">About</string>
 </resources>
